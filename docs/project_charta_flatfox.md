@@ -30,6 +30,8 @@ Here we define the milestones for the Project.
 - Deployment
 - Final Documentation and Project Report
 
+### Key Metrics
+The model should be able to guess the price of the listing within +/- 10%. 
 root mean square deviation (money)
 y data profiling 
 

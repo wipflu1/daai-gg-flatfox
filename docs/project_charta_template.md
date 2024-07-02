@@ -1,15 +1,11 @@
-# `Sample Project` - Project Charta
+# `Project Outline for Predicting Flat Prices` - Project Charta
 ## Problem Definition
-Formulate the problem and important information about the domain and/or business area in which the product is to be developed: What exactly is the problem and the expected benefit of the project? Why should we undertake this effort?   
-This includes a summary of the most important findings from the user analysis: relevant segments and user groups. Describe the problems and needs of the users of the product to be developed. 
-
-Stakeholders: List the people involved in and affected by the project. Describe their goals and relationships with each other. Visualisation in the form of a stakeholder map can provide a quick overview.
-
-You can reference more detailed analyses such as individual "personas" or interviews in separate documents in the appendix.
+The goal of this project is to develop a predictive model to estimate the price of flats listed on Flatfox.ch based on parameters like the number of rooms, location, and living space.
+This will help users make informed decisions and avoid overpaying for their desired properties.
 
 ## Situation Assessment
-Describe the available resources (personnel, material, (software) tools, infrastructure, etc.) and time as well as restrictions and constraints. Possible risks that may arise during the project are also identified.
-
+Currently, Flatfox.ch users lack an automated tool to estimate fair flat prices based on specific features.
+While the platform is popular for listing flats, the absence of such a tool poses a challenge. Developing this tool presents an opportunity to enhance user experience and trust, positioning Flatfox.ch as a more reliable and user-friendly option compared to competitors.
 ## Project Goals and Success Criteria
 When is the project successful from a client/stakeholder perspective: Formulate (qualitative) objectives, wherever possible, corresponding key metrics and the target values to be achieved within the project.
 
@@ -37,29 +33,30 @@ Divide the project into individual phases, describe them briefly and draw up a p
 
 ```mermaid
 gantt
-    title A Gantt Diagram
-    dateFormat YYYY-MM-DD
-    tickInterval 5day
-    section Project Understanding
-        Define problem,     :a1, 2024-07-01, 1d
-        Determine project goals     :a2, 2024-07-01, 1d
-        List available resources     :a3, 2024-07-02, 1d
-        Set data mining goals    :a4, 2024-07-03, 1d
-        Create project plan    :a5, 2024-07-03, 1d
-        Project checkpoint: milestone, m1, 2024-07-04, 4m
-    section Data Acquisition and Exploration
-        Acquire data :a6, 2024-07-02, 2d
-        Exploratory data analysis   :a7, 2024-07-03, 2d
-        
-    section Modelling
-        Create initial model   :a8, 2024-07-09, 1d
-        Additional feature engineering :a9, 2024-07-10, 1d
-        Prepare modelling report :a10, 2024-07-10, 2h
-    section Evaluation
-        Prepare presentation :a10, 2024-07-10, 2h
-        Project presentation : milestone, m2, 2024-07-11, 4m
+    title Data Engineering Project Gantt Chart
+    dateFormat  YYYY-MM-DD
+    section Planning and Setup
+    Project Planning and Setup          :done, 2024-07-01, 1d
+    section API Integration
+    Research API and Develop Scripts    :done, 2024-07-01, 2d
+    section Data Storage
+    Setup Database and Schema Design    :done, 2024-07-02, 2d
+    section Data Cleaning and Preprocessing
+    Data Cleaning and Preprocessing     :done, 2024-07-03, 2d
+    section Exploratory Data Analysis
+    Exploratory Data Analysis           :done, 2024-07-04, 2d
+    section Feature Engineering
+    Feature Engineering                 :done, 2024-07-08, 2d
+    section Model Development
+    Model Development                   :done, 2024-07-09, 3d
+    section Model Evaluation
+    Model Evaluation                    :done, 2024-07-10, 2d
+    section Deployment
+    Deployment                          :done, 2024-07-11, 2d
+    section Monitoring and Maintenance
+    Monitoring and Maintenance          :done, 2024-07-15, 4d
+
 ```
-See [Mermaid syntax for Gantt charts](https://mermaid.js.org/syntax/gantt.html).
 
 ## Roles and Contact Details
 List the people involved in the development work here with their role titles, tasks and contact details

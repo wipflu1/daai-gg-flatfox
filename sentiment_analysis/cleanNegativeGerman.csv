@@ -116,8 +116,6 @@ Antipathien, -0.0048
 Arbeitslosen, -0.3549
 Arbeitsloser, -0.3549
 Arbeitslosem, -0.3549
-, -0.3654
-, -0.2038
 Arroganzen, -0.3289
 Arschlöcher, -0.1901
 Arschlochs, -0.1901
@@ -192,7 +190,6 @@ Beschwerden, -0.0048
 Beschwerlichkeiten, -0.0048
 Beschädigungen, -0.0048
 Beschäftigungslosen, -0.0048
-, -0.0048
 Beschämungen, -0.0048
 Beseitigungnen, -0.0048
 Besorgnissen, -0.0048
@@ -200,7 +197,6 @@ Besorgnisse, -0.0048
 Bestechungen, -0.0048
 Besteuerungen, -0.0048
 Bestrafungen, -0.0048
-, -0.0048
 Betrugs, -0.4913
 Betruges, -0.4913
 Betruge, -0.4913
@@ -210,7 +206,6 @@ Beulen, -0.0048
 Beunruhigungen, -0.324
 Bevormundungen, -0.0048
 Bitterkeiten, -0.0048
-, -0.0048
 Blockaden, -0.0048
 Blockierungen, -0.0048
 Blödheiten, -0.0048
@@ -240,7 +235,6 @@ Bösewichts, -0.0048
 Bösewichtes, -0.0048
 Bösewichter, -0.0048
 Bürden, -0.0524
-, -0.3489
 Crashs, -0.1885
 Defekten, -0.0048
 Defekts, -0.0048
@@ -252,7 +246,6 @@ Defizite, -0.347
 Defizites, -0.347
 Deformationen, -0.0048
 Degradierungen, -0.3137
-, -0.0048
 Demütigungen, -0.0048
 Denkfehlern, -0.0048
 Denkfehlers, -0.0048
@@ -333,7 +326,6 @@ Elendes, -0.2013
 Empörungen, -0.0048
 Endes, -0.2088
 Enden, -0.2088
-, -0.0048
 Entbindungen, -0.0048
 Entfremdungen, -0.0048
 Entführungen, -0.0048
@@ -356,7 +348,6 @@ Explosionen, -0.0048
 Fahrlässigkeiten, -0.0048
 Farcen, -0.3349
 Faschisten, -0.0048
-, -0.611
 Fehden, -0.0048
 Fehlanzeigen, -0.0048
 Fehlern, -0.6752
@@ -398,13 +389,11 @@ Frechheiten, -0.4665
 Frustes, -0.469
 Frusts, -0.469
 Frustrationen, -0.3354
-, -0.5012
 Fälschungen, -0.3377
 Gammlers, -0.0048
 Gammlern, -0.0048
 Gangsters, -0.3375
 Gangstern, -0.3375
-, -0.0048
 Gaunern, -0.4592
 Gauners, -0.4592
 Gebrechens, -0.3251
@@ -436,21 +425,14 @@ Gestankes, -0.0048
 Gestanke, -0.0048
 Gewalten, -0.5363
 Gewalttätigen, -0.0048
-, -0.0048
 Gifts, -0.3505
 Giftes, -0.3505
 Giften, -0.3505
 Gifte, -0.3505
-, -0.0048
-, -0.343
-, -0.0048
-, -0.0048
 Grausamkeiten, -0.3348
 Grolls, -0.6021
 Grolles, -0.6021
 Grotesken, -0.0048
-, -0.0532
-, -0.0048
 Handgemenges, -0.3174
 Handgemengen, -0.3174
 Handicaps, -0.0426
@@ -458,13 +440,11 @@ Handikaps, -0.0426
 Hasse, -0.5014
 Hasses, -0.5014
 Heimsuchungen, -0.0048
-, -0.0048
 Hemmungen, -0.0048
 Herausforderungen, -0.0048
 Heucheleien, -0.0048
 Heuchlers, -0.3251
 Heuchlern, -0.3251
-, -0.3394
 Hinderniss, -0.0048
 Hindernisses, -0.0048
 Hindernissen, -0.0048
@@ -473,7 +453,6 @@ Hinterhaltes, -0.0048
 Hinterhalts, -0.0048
 Hinterhalte, -0.0048
 Hinterhalten, -0.0048
-, -0.0048
 Hohnes, -0.0048
 Hohns, -0.0048
 Horrors, -0.0509
@@ -489,7 +468,6 @@ Härten, -0.0446
 Höllen, -0.5052
 Idioten, -0.0048
 Illegalitäten, -0.0048
-, -0.0048
 Ineffizienzen, -0.0048
 Infektionen, -0.2059
 Infiltrationen, -0.0048
@@ -562,7 +540,6 @@ Kriegs, -0.5364
 Krieges, -0.5364
 Kriegen, -0.5364
 Kriege, -0.5364
-, -0.0048
 Krisen, -0.3621
 Kritiken, -0.5308
 Kritikers, -0.6494
@@ -574,17 +551,13 @@ Kurseinbruchs, -0.0048
 Kurseinbrüche, -0.0048
 Kurseinbruches, -0.0048
 Kurseinbrüchen, -0.0048
-, -0.0048
 Kündigungen, -0.0048
 Kürzungen, -0.341
-, -0.0377
 Langweilern, -0.0443
 Langweilers, -0.0443
 Lasten, -0.0048
 Launenhaftigkeiten, -0.0048
 Lebensgefahren, -0.0048
-, -0.0048
-, -0.0048
 Leichtsinns, -0.3253
 Leichtsinnes, -0.3253
 Leichtsinnsfehlers, -0.0371
@@ -626,7 +599,6 @@ Missgeschicken, -0.0472
 Missgeschicks, -0.0472
 Missgeschicke, -0.0472
 Missgeschickes, -0.0472
-, -0.0048
 Misstrauens, -0.4778
 Misstrauensanträge, -0.0048
 Misstrauensanträgen, -0.0048
@@ -639,15 +611,11 @@ Missverständnissen, -0.4756
 Mists, -0.1732
 Mistes, -0.1732
 Miste, -0.1732
-, -0.0048
-, -0.0048
 Monotonien, -0.0048
 Mordes, -0.3595
 Morde, -0.3595
 Mords, -0.3595
 Morden, -0.3595
-, -0.0048
-, -0.1995
 Mühen, -0.0048
 Mülls, -0.3377
 Mülles, -0.3377
@@ -656,13 +624,10 @@ Nachteilen, -0.8102
 Nachteile, -0.8102
 Nachteils, -0.8102
 Nachteiles, -0.8102
-, -0.0048
 Narren, -0.335
-, -0.3155
 Neides, -0.4729
 Neids, -0.4729
 Neide, -0.4729
-, -0.1833
 Neustarts, -0.0504
 Niedergangs, -0.0048
 Niederganges, -0.0048
@@ -683,7 +648,6 @@ Notständen, -0.0048
 Notstands, -0.0048
 Notstände, -0.0048
 Notstande, -0.0048
-, -0.0048
 Nötigungen, -0.0048
 Oberflächlichkeiten, -0.3299
 Offensiven, -0.0048
@@ -694,7 +658,6 @@ Peches, -0.4823
 Pechen, -0.4823
 Peche, -0.4823
 Pechs, -0.4823
-, -0.4715
 Pests, -0.3456
 Pflichten, -0.3577
 Pleiten, -0.3323
@@ -706,7 +669,6 @@ Preissturzen, -0.0048
 Probleme, -0.3865
 Problemen, -0.3865
 Problems, -0.3865
-, -0.4893
 Protestes, -0.3564
 Protests, -0.3564
 Proteste, -0.3564
@@ -716,7 +678,6 @@ Provisoriums, -0.0048
 Provokationen, -0.0048
 Qualen, -0.0402
 Qualitätsminderungen, -0.3096
-, -0.3534
 Ratlosigkeiten, -0.0048
 Raubs, -0.0048
 Raubes, -0.0048
@@ -788,7 +749,6 @@ Schadensbilder, -0.0048
 Schadensbilds, -0.0048
 Schadensbildes, -0.0048
 Schadensbilde, -0.0048
-, -0.4829
 Schanden, -0.0048
 Scheidungen, -0.2023
 Scheiterns, -0.3524
@@ -892,7 +852,6 @@ Streites, -0.6632
 Streits, -0.6632
 Streiten, -0.6632
 Streite, -0.6632
-, -0.0048
 Stresse, -0.0048
 Stresses, -0.0048
 Sturheiten, -0.1894
@@ -911,7 +870,6 @@ Sündenböcken, -0.3285
 Sündenbocks, -0.3285
 Tabus, -0.0048
 Terrors, -0.0048
-, -0.3553
 Teuerungen, -0.322
 Teuerungsraten, -0.0048
 Teufelskreise, -0.479
@@ -932,7 +890,6 @@ Totschlage, -0.0048
 Totschlags, -0.0048
 Totschlages, -0.0048
 Tragödien, -0.0048
-, -0.0048
 Traumen, -0.0048
 Traumas, -0.0048
 Traumata, -0.0048
@@ -944,7 +901,6 @@ Trottes, -0.0048
 Trotten, -0.0048
 Trotts, -0.0048
 Trotte, -0.0048
-, -0.0048
 Trugschlusse, -0.0048
 Trugschlusses, -0.0048
 Trugschlüsse, -0.0048
@@ -964,9 +920,7 @@ Umtausche, -0.343
 Umtäuschen, -0.343
 Unbehagens, -0.3291
 Unbehaglichkeiten, -0.0048
-, -0.0048
 Unbequemlichkeiten, -0.0048
-, -0.0537
 Undankbarkeiten, -0.0048
 Unehrlichkeiten, -0.0048
 Uneinigkeiten, -0.3289
@@ -980,12 +934,9 @@ Unfalle, -0.0048
 Unfreundlichkeiten, -0.3085
 Unfugs, -0.3394
 Unfähigkeiten, -0.1896
-, -0.4655
-, -0.0048
 Ungenauigkeiten, -0.0048
 Ungerechtigkeiten, -0.3419
 Ungeschicklichkeiten, -0.3116
-, -0.0048
 Ungleichheiten, -0.0048
 Unglückes, -0.5004
 Unglücks, -0.5004
@@ -995,7 +946,6 @@ Unheilbarkeiten, -0.0048
 Unhöflichkeiten, -0.0048
 Unklarheiten, -0.0048
 Unmenschlichkeiten, -0.0048
-, -0.3172
 Unmutes, -0.3394
 Unmuts, -0.3394
 Unmute, -0.3394
@@ -1004,7 +954,6 @@ Unrechtes, -0.5086
 Unrechts, -0.5086
 Unrechte, -0.5086
 Unregelmäßigkeiten, -0.0048
-, -0.0048
 Unruhen, -0.201
 Unsicherheiten, -0.358
 Unsinnes, -0.4969
@@ -1019,7 +968,6 @@ Unterganges, -0.3498
 Untergänge, -0.3498
 Unterlassungen, -0.0048
 Unterwerfungen, -0.3279
-, -0.3293
 Unverantwortlichkeiten, -0.3068
 Unvereinbarkeiten, -0.0048
 Unverhältnismäßigkeiten, -0.0048
@@ -1152,7 +1100,6 @@ Wracke, -0.0048
 Wracken, -0.0048
 Wrackes, -0.0048
 Wunden, -0.3396
-, -0.4726
 Wüsten, -0.0048
 Zahlungsunfähigkeiten, -0.0048
 Zeitverschwendungen, -0.3223
@@ -1160,7 +1107,6 @@ Zensuren, -0.3468
 Zerrungen, -0.0048
 Zerschlagungen, -0.0048
 Zerstörungen, -0.3578
-, -0.0048
 Zolls, -0.0048
 Zölle, -0.0048
 Zolles, -0.0048
@@ -1186,7 +1132,6 @@ Zwangslagen, -0.0048
 Zwangsmaßnahmen, -0.0048
 Zweifeln, -0.0048
 Zweifels, -0.0048
-, -0.0048
 abbaue, -0.0578
 abbaust, -0.0578
 abbaut, -0.0578
@@ -3084,7 +3029,6 @@ beraube, -0.0048
 beraubet, -0.0048
 beraubt, -0.0048
 beraubtet, -0.0048
-, -0.0048
 bescheuertestes, -0.0048
 bescheuertester, -0.0048
 bescheuertes, -0.0048
@@ -6446,7 +6390,6 @@ grobem, -0.3495
 groben, -0.3495
 grober, -0.3495
 grobes, -0.3495
-, -0.0048
 groteskeres, -0.3318
 groteskem, -0.3318
 grotesken, -0.3318
@@ -6810,7 +6753,6 @@ herrische, -0.0426
 herrischste, -0.0426
 herrischeres, -0.0426
 herrischerer, -0.0426
-, -0.0048
 heruntermachten, -0.0048
 heruntermachet, -0.0048
 heruntermache, -0.0048
@@ -8135,7 +8077,6 @@ litten, -0.1596
 littet, -0.1596
 litte, -0.1596
 gelitten, -0.1596
-, -0.4787
 leistungsunfähige, -0.0048
 leistungsunfähigem, -0.0048
 leistungsunfähigen, -0.0048
@@ -9848,7 +9789,6 @@ rückständigen, -0.0048
 rückständigeres, -0.0048
 rückständigstes, -0.0048
 rückständigem, -0.0048
-, -0.3496
 rüdestes, -0.0048
 rüdester, -0.0048
 rüdestem, -0.0048
@@ -9888,7 +9828,6 @@ saurerem, -0.0048
 saures, -0.0048
 saure, -0.0048
 saureren, -0.0048
-, -0.0048
 schadhaftem, -0.0048
 schadhafteste, -0.0048
 schadhaften, -0.0048
@@ -9973,10 +9912,6 @@ schiedst, -0.0557
 schieden, -0.0557
 schiedet, -0.0557
 geschieden, -0.0557
-, -0.1838
-, -0.0226
-, -0.3381
-, -0.2945
 schelte, -0.3143
 schilst, -0.3143
 schilt, -0.3143
@@ -10189,7 +10124,6 @@ schlimmen, -0.1705
 schlimmster, -0.1705
 schlimmem, -0.1705
 schlimmstes, -0.1705
-, -0.6494
 schlotterige, -0.0048
 schlotterigem, -0.0048
 schlotterigen, -0.0048
@@ -13246,7 +13180,6 @@ untauglicher, -0.5944
 untauglicheren, -0.5944
 untaugliche, -0.5944
 untauglichste, -0.5944
-, -0.3334
 unterbelichte, -0.0426
 unterbelichtest, -0.0426
 unterbelichtet, -0.0426
@@ -13491,7 +13424,6 @@ unverantwortlichsten, -0.4889
 unverantwortlichstem, -0.4889
 unverantwortliche, -0.4889
 unverantwortlichster, -0.4889
-, -0.3242
 unverbesserlicherem, -0.4363
 unverbesserlicheren, -0.4363
 unverbesserlichsten, -0.4363

@@ -9,3 +9,6 @@ Typically, in the exploratory analysis of the acquired raw data, quality and oth
 
 ## Processed Data
 [clean data report](../preparation/flatfox_clean_profiling.html)
+
+## Processed Data only Apartments
+[clean data report apartment only](../preparation/flatfox_no_parking_clean_profiling.html)

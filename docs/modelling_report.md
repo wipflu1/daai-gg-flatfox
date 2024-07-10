@@ -17,7 +17,7 @@ The primary objective of this modeling task is to develop a predictive model tha
 ### Description of the Independent Variables and Target Variable:
 
 - Independent Variables (Features):
-  -object_type
+  - object_type
   - price_display_type
   - price_unit
   - number_of_rooms

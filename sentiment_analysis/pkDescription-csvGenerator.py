@@ -1,6 +1,6 @@
 import pandas as pd
 from transformers import pipeline
-
+print('executing')
 df=pd.read_csv('flatfox.csv')
 df=df[['pk','description']]
 df = df.replace('[^\w\s]','', regex=True)
@@ -13,6 +13,7 @@ for index, row in df.iterrows():
     text = str(row['description'])
 
     try:
+        print(index)
         result= pipe(text, top_k=1, truncation=True)
         results.append(result)
     except:

@@ -31,14 +31,19 @@ Here we define the milestones for the Project.
 - Final Documentation and Project Report
 
 ### Key Metrics
-The model should be able to guess the price of the listing within +/- 10%. 
-root mean square deviation (money)
-y data profiling 
 
-Along with the definition of the actual technical problem (category) to be solved, 
-the project goals must be mapped onto quitable quantitative metrics and corresponding target values. For example, for a classification task one might specify an *F-score* of 0.9 as a minimal requirement for an acceptable solution.  
-Such a requirement should be aligned with the overall project goals and/or literature references or justified by other references, respectively.
+The model's performance will be evaluated using the following key metrics:
 
+1. **Prediction Accuracy:** 
+   - The model should predict flat prices within +/- 10% of the actual listing price. This ensures that users receive highly accurate price estimates for their desired flats.
+
+2. **Root Mean Square Error (RMSE):** 
+   - RMSE will be calculated in monetary terms to quantify the average deviation of the predicted prices from the actual prices. A lower RMSE indicates better model performance and more precise price predictions. We aim to achieve an RMSE below 300.
+
+3. **Data Profiling:**
+   - Comprehensive data profiling and analysis will be conducted to ensure the quality and relevance of the data used for model training. This includes checking for missing values, outliers, and ensuring the data's integrity.
+
+These metrics align with the project goals and provide a quantifiable measure of the model's effectiveness in predicting flat prices. They will guide the iterative improvement of the model to ensure it meets the desired accuracy and reliability standards.
 
 ## Project Plan
 In this project, we will scrape data from the Flatfox.ch website to train a model that predicts flat prices based on parameters like the number of rooms, location, and living space. The process includes:
@@ -79,11 +84,11 @@ gantt
 ## Roles and Contact Details
 Authors:
 
-Lead Bullshitter:            
+Projekt Lead
 Liam Decaster -  [decaslia@students.zhaw.ch]()
 
-Head of getting stuff done:  
+Lead Developer
 Lukas Wipf  -    [wipflu1@students.zhaw.ch]()
 
-Yes:            
+Lead Data Analyst
 Grant Gordon -  [gordongr@mail.gvsu.edu]()

@@ -1,0 +1,14 @@
+/mnt/home/gordongr/projects/sentimentAnalysis/pkDescription-csvGenerator.py:6: DtypeWarning: Columns (52) have mixed types. Specify dtype option on import or set low_memory=False.
+  df=pd.read_csv('flatfox.csv')
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+Traceback (most recent call last):
+  File "/mnt/home/gordongr/projects/sentimentAnalysis/pkDescription-csvGenerator.py", line 25, in <module>
+    df.to_csv("pk-description-sentimentValue.csv",index=False, quoting=csv.QUOTE_NONNUMERIC ,quotechar='"', lineterminator='!')
+NameError: name 'csv' is not defined

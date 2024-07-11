@@ -57,8 +57,15 @@ Overview of the models used and/or implemented and their configurations:
      - Additional references as applicable.
 
 2. **Graphical Representation of the Modelling Pipeline**:
-   - ![Model Pipeline](link_to_graphical_representation_image)
-   - The modeling pipeline includes data preprocessing, feature selection, model training using the Random Forest algorithm with XGBoost, model evaluation, and refinement.
+```mermaid
+graph TD
+    A[Data Collection] --> B[Data Cleaning]
+    B --> C[Feature Selection]
+    C --> D[Model Training]
+    D -->|Random Forest with XGBoost| E[Model Evaluation]
+    E -->|Evaluate Performance Metrics| F[Model Refinement]
+    F -->|Hyperparameter Tuning| D
+```
 
 3. **Link to the Code of the Modelling Pipeline**:
    - **Repository**: [Link to the GitHub repository](https://github.com/wipflu1/daai-gg-flatfox/tree/clean-up)

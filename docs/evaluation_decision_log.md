@@ -1,19 +1,27 @@
-# `Sample Project` - Decision Log
-This protocol summarises the decisions from the evaluation of the data mining phase, which are made, for example, in a workshop together with the client and other stakeholders.
+# `Flat Price Prediction Project` - Decision Log
 
-Decide:
-* Do results meet user needs?
-* Continuation of the project yes/no
-* Planning of the deployment
-* Carry out an additional data mining iteration
-    * Acquire more or different data
-    * Improvements in the modelling
-    * Address governance issues
-    * or ethical considerations
-    * ...
+This protocol summarizes the decisions from the evaluation of the data mining phase, which were made during a workshop with the client and other stakeholders.
 
-Any presentation material created for such a workshop should also be stored in the `docs` folder.
+## Decisions
 
-It is important to list who was involved in the decisions and when they were made.
+1. **Do results meet user needs?**
+   - Yes, the current model predictions are within +/- 10% of the actual flat prices when the living space area is available, meeting the user needs for accurate price estimation. This is a limitation of our model as it relies heavily on having the living space area data.
 
-The structure and level of detail of this protocol should be tailored to the customs of the relevant organisation and the requirements of the decision-makers. It might include already a high level description of the envisioned product to be deployed.
+2. **Continuation of the project:**
+   - Yes, the project will continue to the deployment phase.
+
+3. **Carry out an additional data mining iteration:**
+   - Yes, an additional iteration will be carried out to further improve the model:
+     - **Acquire different data:** For example, proximity to water, train station, hospital, etc., to enhance model accuracy.
+     - **Improvement to our sentiment analysis:** Enhance the sentiment analysis component to better understand textual descriptions and reviews.
+     - **Classify and evaluate images:** Train a model to classify and evaluate the pictures uploaded with the flat listings to provide better visual assessment.
+
+## Participants
+
+- **Liam Decaster:** Project Lead
+- **Lukas Wipf:** Lead Developer
+- **Grant Gordon:** Lead Data Analyst
+
+## Date of Decision
+
+- **Date:** July 11, 2024

@@ -57,8 +57,16 @@ Overview of the models used and/or implemented and their configurations:
      - Additional references as applicable.
 
 2. **Graphical Representation of the Modelling Pipeline**:
-   - ![Model Pipeline](link_to_graphical_representation_image)
-   - The modeling pipeline includes data preprocessing, feature selection, model training using the Random Forest algorithm with XGBoost, model evaluation, and refinement.
+3. 
+```mermaid
+graph TD
+    A[Data Collection] --> B[Data Cleaning]
+    B --> C[Feature Selection]
+    C --> D[Model Training]
+    D -->|Random Forest with XGBoost| E[Model Evaluation]
+    E -->|Evaluate Performance Metrics| F[Model Refinement]
+    F -->|Hyperparameter Tuning| D
+```
 
 3. **Link to the Code of the Modelling Pipeline**:
    - **Repository**: [Link to the GitHub repository](https://github.com/wipflu1/daai-gg-flatfox/tree/clean-up)
@@ -71,13 +79,13 @@ Overview of the models used and/or implemented and their configurations:
 
 5. **Hyperparameters**:
    - The following hyperparameters were used for the Random Forest with XGBoost model:
-```javascript
+```json
 {
-    'model__colsample_bytree': 0.8,
-    'model__learning_rate': 0.1,
-    'model__max_depth': 7,
-    'model__n_estimators': 400,
-    'model__subsample': 0.7
+    "model__colsample_bytree": 0.8,
+    "model__learning_rate": 0.1,
+    "model__max_depth": 7,
+    "model__n_estimators": 400,
+    "model__subsample": 0.7
 }
 ```
    - These hyperparameters were tuned using a grid search (or specify other methods if used) to optimize the model performance.
@@ -98,3 +106,4 @@ Key figures dependent on the model and modelling objective
 - It is possible to make reasonable decisions based on the model
 - It makes wildly wrong predictions if the livingspace is missing
 - Image analysis, Sentiment analysis or location data from google maps could be used to further the accuracy of the model.
+- The images could be used to guess the livingspace for buildings that don't have it listed.
